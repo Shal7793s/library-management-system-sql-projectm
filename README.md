@@ -1,4 +1,5 @@
- library-management-system-sql-project
+             library-management-system-sql-project
+ 
   A Library Database Management System using MySQL. The database for library management system will include tables like  BRANCH,BOOKS,EMPLOYEEISSUESTATUS,RETURNSTATUS.
   First create database LIBRARY
   Then create all required tables inside it.
